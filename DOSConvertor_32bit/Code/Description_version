@@ -1,0 +1,19 @@
+This Folder Contain the 32bit version of the DOSConvertor program 
+
+Python 3.6.8 32bit version
+
+Package                   Version
+------------------------- --------
+altgraph                  0.17.4
+importlib-metadata        4.8.3
+numpy                     1.19.5
+pefile                    2023.2.7
+pip                       21.3.1
+pyinstaller               4.10
+pyinstaller-hooks-contrib 2022.0
+PySide2                   5.15.2.1
+pywin32-ctypes            0.2.2
+setuptools                40.6.2
+shiboken2                 5.15.2.1
+typing_extensions         4.1.1
+zipp                      3.6.0
