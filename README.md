@@ -1,2 +1,2 @@
 # BinaryDataConvertor
-Easy and small application for tranfsormation a data in binary format to real numbers. 
+Easy and small application for transformation a data in binary format to real numbers. 
